@@ -1,4 +1,4 @@
-# KERN Registro V11
+# KERN Registro V1
 
 Versão preparada para GitHub Pages.
 
